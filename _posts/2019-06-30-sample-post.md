@@ -4,8 +4,9 @@ title: Fly-By-Feel Wind Tunnel Experiment
 tags: [Wind Tunnel]
 excerpt_separator: <!--more-->
 ---
-My colleagues and I completed a wind tunnel experiment in 2022 to figure out the wing status under various angle of attack (AOA) and airspeed. The entire experiment includes the design of wing, mounting base and sensor array.
+
 ---
+My colleagues and I completed a wind tunnel experiment in 2022 to figure out the wing status under various angle of attack (AOA) and airspeed. The entire experiment includes the design of wing, mounting base and sensor array.
 
 Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.
 Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur.
