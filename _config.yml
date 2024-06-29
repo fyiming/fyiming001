@@ -3,9 +3,9 @@
 url: "https://fyiming.github.io/yimingfan.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                               # site's title
+title: Home                              # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar:                        # Empty for no avatar in navbar    assets/img/triangle.png  
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
