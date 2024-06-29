@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publication/
 feature-img: "assets/img/pexels/travel.jpeg"
-position: 2
+position: 4
 tags: [Page]
 ---
 
