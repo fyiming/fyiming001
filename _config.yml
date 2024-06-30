@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 # baseurl: "/Type-on-Strap"
-url: "https://fyiming.github.io/yimingfan.github.io/"
+url: "https://fyiming.github.io/fyiming001/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Home                              # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar:                        # Empty for no avatar in navbar    assets/img/triangle.png  
+avatar:                        # Empty for no avatar in navbar    assets/img/triangle.png
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
