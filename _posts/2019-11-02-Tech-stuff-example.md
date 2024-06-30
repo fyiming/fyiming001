@@ -163,8 +163,8 @@ You can also render some yaml, like this `_config.yml`:
 # in the templates via {{ site.myvariable }}.
 
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://fyiming.github.io/fyiming001/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Yiming Fan's Website                               # site's title
