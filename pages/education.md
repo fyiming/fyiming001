@@ -4,7 +4,7 @@ title: Education
 permalink: /education/
 feature-img: "assets/img/pexels/travel.jpeg"
 position: 3
-tags: [Page]
+tags: [Education]
 ---
 
 ### EDUCATION
