@@ -9,6 +9,12 @@ tags: [Page]
 
 I'm Yiming Fan, a senior PhD Mechanical Engineering student at RPI. I built this website so that people can know my experience and research easily. Thanks for reading!
 
+[Fly-By-Feel Wind Tunnel Experiment](https://fyiming.github.io/fyiming001/2019/06/30/sample-post.html)
+
+[2nd project]
+
+
+
 My resume
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
