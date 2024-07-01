@@ -2,7 +2,7 @@
 layout: post
 title: Bio
 permalink: /bio/
-tags: [Katex, Mermaid, Markdown]
+tags: [Bio]
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/bio7.jpeg"
 categories: Demo
