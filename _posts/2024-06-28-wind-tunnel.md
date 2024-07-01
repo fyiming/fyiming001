@@ -11,10 +11,17 @@ excerpt_separator: <!--more-->
 ---
 My colleagues and I completed a wind tunnel experiment in 2022 to figure out the wing status under various angle of attack (AOA) and airspeed. The goal is to observe and record how flight conditions affect the wing status reflected by the signals. The entire experiment includes the design of wing, mounting base and sensor array.
 
-First Step: Wing Design
+## Wing Design
 
 To build our wing, we referenced and compared existing models that are well known to guarantee success and finally decided to use xxx. FEM were built after model configuration. Hollow structure was implemented in order to decrease weight.
 
+## Mount Base
+
+## State Matrix
+
+## Data Acquisition
+s
+## Results
 <!--more-->
 Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
