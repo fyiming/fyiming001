@@ -4,7 +4,7 @@ title: Wind Tunnel Experiment Design
 tags: [Wind Tunnel, Design]
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/wt1.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/wt1.jpeg"
+thumbnail: "assets/img/feature-img/wt1.jpeg"
 excerpt_separator: <!--more-->
 ---
 
