@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio/
 tags: [Katex, Mermaid, Markdown]
 color: rgb(250, 50, 50)
-feature-img: "assets/img/feature-img/bio2.jpeg"
+feature-img: "assets/img/feature-img/bio3.jpeg"
 categories: Demo
 ---
 
