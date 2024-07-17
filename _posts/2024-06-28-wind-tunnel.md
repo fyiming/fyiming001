@@ -14,7 +14,6 @@ My colleagues and I completed a wind tunnel experiment in 2022 to figure out the
 
 ## Wing Design
 
-To build our wing, we referenced and compared existing models that are well known to guarantee success and finally decided to use xxx. FEM were built after model configuration. Hollow structure was implemented in order to decrease weight.
 {% include aligner.html images="feature-img/wt_1.png" %}
 {% include aligner.html images="feature-img/wt_2.png" %}
 
