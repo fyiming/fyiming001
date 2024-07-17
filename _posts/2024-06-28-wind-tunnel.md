@@ -31,7 +31,8 @@ My colleagues and I completed a wind tunnel experiment in 2022 to figure out the
 
 ## Base Design
 
-{% include aligner.html images="feature-img/wt_3.png" %}
+{% include aligner.html images="feature-img/wt_3.png,feature-img/wt_m6.png" column=2 %}
+<!-- {% include aligner.html images="feature-img/wt_3.png" %} -->
 
 ## State Matrix
 
