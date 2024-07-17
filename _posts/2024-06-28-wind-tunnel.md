@@ -29,7 +29,7 @@ My colleagues and I completed a wind tunnel experiment in 2022 to figure out the
 
 
 
-## Mount Base
+## Base Design
 
 {% include aligner.html images="feature-img/wt_3.png" %}
 
