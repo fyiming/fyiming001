@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Markup: Syntax Highlighting"
 author: mmistakes
@@ -6,7 +6,7 @@ tags: [Highlight, Markdown]
 categories: Syntax
 ---
 
-Syntax highlighting[^1] is a feature that displays source code. 
+Syntax highlighting[^1] is a feature that displays source code.
 This feature facilitates writing in a structured language such as a programming language or a markup language as it makes import things visually distinct.
 
 
@@ -41,7 +41,7 @@ GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/c
     <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
   {% endif %}
 </nav><!-- /.pagination -->{% endraw %}
-```
+<!-- ```
 
 ```ruby
 module Jekyll
@@ -60,8 +60,8 @@ module Jekyll
       self.data['description'] = "An archive of posts tagged #{tag}."
     end
   end
-end
-```
+end -->
+<!-- ```
 
 ### Code Blocks in Lists
 
@@ -77,7 +77,7 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
    print_hi('Tom')
    #=> prints 'Hi, Tom' to STDOUT.
    ```
-        
+
 3. Now you can do this.
 
 ### GitHub Gist Embed
@@ -97,4 +97,4 @@ Here is how it looks like:
 
 <br>
 
-[^1]: {% include citation.html key="highlight" %}
+[^1]: {% include citation.html key="highlight" %} --> -->
