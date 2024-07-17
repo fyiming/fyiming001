@@ -15,7 +15,9 @@ My colleagues and I completed a wind tunnel experiment in 2022 to figure out the
 <img src="https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/wt_overview.jpeg"  width="50" height="30">
 hi
 <img src="feature-img/wt_overview.jpeg"  width=50% height=50%>
-
+<img src="https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/wt_overview.jpeg" alt="drawing" width="200"/>
+hihi
+<img src="feature-img/wt_overview.jpeg" alt="drawing" width="200"/>
 ## Wing Design
 
 {% include aligner.html images="feature-img/wt_1.png" %}
