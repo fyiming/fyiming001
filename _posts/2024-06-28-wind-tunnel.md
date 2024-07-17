@@ -19,6 +19,7 @@ My colleagues and I completed a wind tunnel experiment in 2022 to figure out the
 {% include aligner.html images="feature-img/wt_2.png" %}
 
 {% include aligner.html images="feature-img/wt5.png" %}
+{% include aligner.html images="feature-img/wt_m5.png" %}
 ![](https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/image42.gif)
 ![](https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/image43.gif)
 ![](https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/image44.gif)
