@@ -11,18 +11,7 @@ excerpt_separator: <!--more-->
 ---
 My colleagues and I completed a wind tunnel experiment in 2022 to figure out the wing status under various angle of attack (AOA) and airspeed. The goal is to observe and record how flight conditions affect the wing status reflected by the signals. The entire experiment includes the design of wing, mounting base and sensor array.
 {% include aligner.html images="feature-img/wt_overview.jpeg" %}
-![##]({{ "/assets/img/pexels/computer.jpeg" | "feature-img/wt_overview.jpeg"}})
-![](https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/wt_overview.jpeg | width="100")
-<!-- {% include aligner.html images="feature-img/wt_overview.jpeg" % width="50"}
-1
-{% include aligner.html images="feature-img/wt_overview.jpeg" width="50"% }
-<!-- ![](https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/wt_overview.jpeg | width=100) -->
-<img src="https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/wt_overview.jpeg"  width="50" height="30">
-hi
-<img src="feature-img/wt_overview.jpeg"  width=50% height=50%>
-<img src="https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/wt_overview.jpeg" alt="drawing" width="50"/>
-hihi
-<img src="feature-img/wt_overview.jpeg" alt="drawing" width="20"/> -->
+
 ## Wing Design
 {% include aligner.html images="feature-img/wt_1.png,feature-img/wt_2.png" column=2 %}
 {% include aligner.html images="feature-img/wt5.png,feature-img/wt_m5.png" column=2 %}
