@@ -18,6 +18,12 @@ To build our wing, we referenced and compared existing models that are well know
 {% include aligner.html images="feature-img/wt_1.png" %}
 {% include aligner.html images="feature-img/wt_2.png" %}
 
+{% include aligner.html images="feature-img/wt5.png" %}
+{% include aligner.html images="feature-img/wt_m1.gif" %}
+{% include aligner.html images="feature-img/wt_m2.gif" %}
+{% include aligner.html images="feature-img/wt_m3.gif" %}
+{% include aligner.html images="feature-img/wt_m4.gif" %}
+
 ## Mount Base
 
 {% include aligner.html images="feature-img/wt_3.png" %}
