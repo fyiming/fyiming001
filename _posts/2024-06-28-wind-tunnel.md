@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 ---
 My colleagues and I completed a wind tunnel experiment in 2022 to figure out the wing status under various angle of attack (AOA) and airspeed. The goal is to observe and record how flight conditions affect the wing status reflected by the signals. The entire experiment includes the design of wing, mounting base and sensor array.
 {% include aligner.html images="feature-img/wt_overview.jpeg" %}
-<img src="https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/wt_overview.jpeg" width="400" height="200" />
+<img src="https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/wt_overview.jpeg" width="40" height="20" />
 
 ## Wing Design
 
@@ -23,7 +23,7 @@ My colleagues and I completed a wind tunnel experiment in 2022 to figure out the
 ![](https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/image43.gif)
 ![](https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/image44.gif)
 ![](https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/image45.gif)
-<img src="https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/image45.gif" width="400" height="200" />
+<img src="https://github.com/fyiming/fyiming001/blob/master/assets/img/feature-img/image45.gif" width="40" height="20" />
 
 
 
