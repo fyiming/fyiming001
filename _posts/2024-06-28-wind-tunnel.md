@@ -24,6 +24,8 @@ hi
 hihi
 <img src="feature-img/wt_overview.jpeg" alt="drawing" width="20"/> -->
 ## Wing Design
+{% include aligner.html images="feature-img/wt_1.png,feature-img/wt_2.png" column=2 %}
+{% include aligner.html images="feature-img/wt5.png,feature-img/wt_m5.png" column=2 %}
 
 {% include aligner.html images="feature-img/wt_1.png" %}
 {% include aligner.html images="feature-img/wt_2.png" %}
