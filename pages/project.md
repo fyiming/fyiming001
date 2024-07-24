@@ -18,3 +18,5 @@ Some of my research projects can be found here:
 [Convolutional/Variational AutoEncoder](https://fyiming.github.io/fyiming001/2024/07/05/AE.html)
 
 [Multi-fidelity Gaussian Process Regression Model](https://fyiming.github.io/fyiming001/2024/07/01/MFGP.html)
+
+I am planning to add more materials in the future, thanks for reading!
