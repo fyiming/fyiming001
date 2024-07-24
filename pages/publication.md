@@ -4,7 +4,7 @@ title: Publications
 permalink: /publication/
 feature-img: "assets/img/pexels/travel.jpeg"
 position: 4
-tags: [Page]
+  tags: [Publication]
 ---
 
 • Y. Fan, D. Giovanis and K. Fotis. "Unified Framework for Probabilistic Modeling and Uncertainty
