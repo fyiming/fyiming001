@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post
 title: Feature images
 feature-img: "assets/img/feature-img/desk-messy.jpeg"
@@ -57,4 +57,4 @@ However you can just use the Markdown way of doing it to get the image normal si
 {% endraw %}
 {% endhighlight %}
 
-{% include aligner.html images="pexels/computer.jpeg" %} -->
+{% include aligner.html images="pexels/computer.jpeg" %}
