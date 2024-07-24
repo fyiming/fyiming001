@@ -10,6 +10,6 @@ categories: Demo
 >  "I am an Engineer, I serve mankind by making dreams come true." --- Anonymous
 <!-- This section contains the basic information of my experience of education and work.  -->
 
-I am currently a senior Mechanical Engineering PhD student of Intelligent Structural Systems Lab (ISSL) at Rensselaer Polytechnic Institute (RPI). My research interests are mainly related to structural healthy monitoring (SHM), sensing techniques, Bayesian Theorem, AutoEncoder (AE) and physics-informed neural network (PINN). You may find my CV [here](https://fyiming.github.io/fyiming001/demo/2024/06/30/cv.html).
+I am currently a senior Mechanical Engineering PhD student of Intelligent Structural Systems Lab (ISSL) at Rensselaer Polytechnic Institute (RPI). My research interests are mainly related to structural healthy monitoring (SHM), sensing techniques, Bayesian Theorem, AutoEncoder (AE) and physics-informed neural network (PINN). You may find my CV [here](https://fyiming.github.io/fyiming001/demo/2024/07/23/cv.html).
 
 <!-- thumbnail: "assets/img/thumbnails/feature-img/bio1.jpeg" -->
